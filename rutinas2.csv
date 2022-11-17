@@ -1,0 +1,29 @@
+﻿movieId,title,genres
+1,Cuadricep,Sentadilla|Aductor|Prensa|Sentadilla romana|Extenseros|Sentadilla esttica
+2,Cuadricep,Hacka|Aductor|Prensa|Lunges|Sentadilla libre|Sentadilla esttica
+3,Cuadricep,Smith|Sentadilla sumo|Sentadilla bulgara|Lunges|Extensores|Sentadilla libre
+4,Gluteo,Hip thrust|Abductor|Monster walk|Curl de pierna acostado|Patada gluteo|Curl de pierna balon
+5,Gluteo,Peso muerto|Abductor|Patada gluteo banda|Curl de pierna sentado|Hip thrust una pierna|Abduccion con banda
+6,Gluteo,Hip thrust|Abductor|Patada gluteo banda|Curl de pierna sentado|Hip thrust una pierna|Abduccion con banda
+7,Sentadilla,Sentadilla
+8,Smith,Smith
+9,Sentadilla sumo,Sentadilla sumo
+10,Sentadilla bulgara,Sentadilla bulgara
+11,Sentadilla romana,Sentadilla romana
+12,Patada gluteo banda,Patada gluteo banda
+13,Sentadilla libre,Sentadilla libre
+14,Aductores,Aductores
+15,Abductores,Abductores
+16,Peso muerto,Peso muerto
+17,Extensiones,Extensiones
+18,Prensa,Prensa
+19,Curl de pierna acostado,Curl de pierna acostado
+20,Curl de pierna sentado,Curl de pierna sentado
+21,Curl de pierna balon,Curl de pierna balon
+22,Hacka,Hacka
+23,Lunges,Lunges
+24,Hip thrust,Hip thrust
+25,Monster walk,Monster walk
+26,Patada de gluteo,Patada de gluteo
+27,Hip thrust una pierna,Hip thrust una pierna
+28,Abduccion con banda,Abduccion con banda
